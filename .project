@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>PictureProcessing</name>
+=======
+	<name>DiscreteEventSim</name>
+>>>>>>> c1e7014e53ee778e40a158af00d8bfb268fffd5a
 	<comment></comment>
 	<projects>
 	</projects>
